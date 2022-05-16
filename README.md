@@ -1,6 +1,3 @@
-# Termux-OMZ
-
-
 # Termux OMZ
 
 Simple script to install **[oh-my-zsh](https://ohmyz.sh)** in **[Termux](https://termux.com)**.
